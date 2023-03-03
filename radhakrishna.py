@@ -230,4 +230,4 @@ t1.write("Radhe Krishna....", font=("Script",45, "bold"))
 
 t1.hideturtle()
 
-turtle.do
+turtle.done
